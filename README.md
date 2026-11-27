@@ -4,8 +4,10 @@ A simple calendar and task reminder app for Android, made by **Abdul Basit Soomr
 
 ## Download
 
-**[⬇ Download the latest APK](../../releases/latest)**: open the link on your phone, tap **TaskReminder.apk** and install.
-Android will ask you to allow installing apps from your browser the first time.
+### [⬇ Download Task Reminder 1.3 (APK, 89 KB)](https://github.com/sabdulbasit787/task-reminder-app/raw/main/download/TaskReminder.apk)
+
+Open the link on your Android phone, then open the downloaded file to install.
+The first time, Android will ask you to allow installing apps from your browser: allow it, then go back and install.
 
 Works on Android 8.0 and newer. Free, no ads, no account, and your tasks stay on your phone.
 
@@ -32,4 +34,11 @@ so your phone never delays a reminder. Then try **Test alarm**.
 
 ## Updates
 
-New versions appear under [Releases](../../releases). Install them over the old one; your tasks are kept.
+The link above always gives the newest version. Install it over the old one; your tasks are kept.
+
+| Version | What's new |
+|---|---|
+| 1.3 | Keep reminding until done, checklists inside tasks, backup and restore |
+| 1.2 | Quick add in plain words, custom repeats, second reminder, categories and priority, search, home-screen widget |
+| 1.1 | New desk-calendar design |
+| 1.0 | Calendar, tasks, notification and alarm reminders, repeats |
